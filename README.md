@@ -1,21 +1,22 @@
-<h1 align="center">Hi there, I'm Kritesh Mantry 👋</h1>
+﻿<h1 align="center">Hi there, I'm Kritesh Mantry ðŸ‘‹</h1>
 <h3 align="center">AI Architecture Enthusiast | B.Tech in Artificial Intelligence @ NIT Rourkela</h3>
-
-<p align="center">
-  I'm passionate about bridging the gap between machine learning models and scalable system architectures. Whether it's training algorithms, optimizing DSA, or designing sleek animated web interfaces, I love building systems that are both intelligent and efficient.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriteshmantry&label=Profile%20Views&color=0e75b6&style=flat" alt="kriteshmantry" />
 </p>
 
-## 🚀 About Me
-- 🔭 I’m currently working on local LLM deployments, workflow automation, and progressive web apps.
-- 🌱 I’m deeply focused on **Data Structures and Algorithms** and **Digital Logic Design**.
-- 🎨 I also enjoy UI/UX design and crafting responsive, glassmorphism-inspired frontends.
-- ⚡ Fun fact: When I'm taking a break from code, you can find me building redstone contraptions in Minecraft or grinding 1v1 arenas in CS2.
+---
 
-## 💻 Tech Stack & Tools
+## ðŸš€ About Me
+
+- ðŸ”­ Iâ€™m currently working on **local LLM deployments**, **workflow automation**, and **progressive web apps**.
+- ðŸŒ± Iâ€™m deeply focused on **Data Structures and Algorithms** and **Digital Logic Design**.
+- ðŸŽ¨ I also enjoy **UI/UX design** and crafting responsive, glassmorphism-inspired frontends.
+- âš¡ Fun fact: When I'm taking a break from code, you can find me building **redstone contraptions** in Minecraft or grinding **1v1 arenas** in CS2.
+
+---
+
+## ðŸ’» Tech Stack & Tools
 
 **Languages:**
 <p>

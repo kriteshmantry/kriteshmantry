@@ -2,6 +2,15 @@
 <h3 align="center">AI Architecture Enthusiast | B.Tech in Artificial Intelligence @ NIT Rourkela</h3>
 
 <p align="center">
+  <a href="https://linkedin.com/in/kriteshmantry" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kriteshmantry" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriteshmantry&label=Profile%20Views&color=0e75b6&style=flat" alt="kriteshmantry" />
 </p>
 

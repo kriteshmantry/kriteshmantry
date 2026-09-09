@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Bridging+ML+Models+%26+Scalable+Architectures;Building+Intelligent+%26+Efficient+Systems;Optimizing+Data+Structures+%26+Algorithms;Crafting+Responsive+Glassmorphism+Frontends" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kriteshmantry&label=Profile%20Views&color=0e75b6&style=flat" alt="kriteshmantry" />
 </p>
 

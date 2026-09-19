@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kritesh Mantry 👋</h1>
+<h3 align="center">AI Architecture Enthusiast | B.Tech in Artificial Intelligence @ NIT Rourkela</h3>
 
-<!--
-**kriteshmantry/kriteshmantry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm passionate about bridging the gap between machine learning models and scalable system architectures. Whether it's training algorithms, optimizing DSA, or designing sleek animated web interfaces, I love building systems that are both intelligent and efficient.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kriteshmantry&label=Profile%20Views&color=0e75b6&style=flat" alt="kriteshmantry" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on local LLM deployments, workflow automation, and progressive web apps.
+- 🌱 I’m deeply focused on **Data Structures and Algorithms** and **Digital Logic Design**.
+- 🎨 I also enjoy UI/UX design and crafting responsive, glassmorphism-inspired frontends.
+- ⚡ Fun fact: When I'm taking a break from code, you can find me building redstone contraptions in Minecraft or grinding 1v1 arenas in CS2.
+
+## 💻 Tech Stack & Tools
+
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Frontend & Design:**
+<p>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+**AI, Automation & Hardware:**
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Xilinx-000000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx" />
+</p>

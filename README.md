@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi there, I'm Kritesh Mantry ðŸ‘‹</h1>
+﻿<h1 align="center">Hi there, I'm Kritesh Mantry ‘‹</h1>
 <h3 align="center">AI Architecture Enthusiast | B.Tech in Artificial Intelligence @ NIT Rourkela</h3>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ---
 
-## ðŸš€ About Me
+## About Me
 
-- ðŸ”­ Iâ€™m currently working on **local LLM deployments**, **workflow automation**, and **progressive web apps**.
+- ”­ Iâ€™m currently working on **local LLM deployments**, **workflow automation**, and **progressive web apps**.
 - ðŸŒ± Iâ€™m deeply focused on **Data Structures and Algorithms** and **Digital Logic Design**.
 - ðŸŽ¨ I also enjoy **UI/UX design** and crafting responsive, glassmorphism-inspired frontends.
 - âš¡ Fun fact: When I'm taking a break from code, you can find me building **redstone contraptions** in Minecraft or grinding **1v1 arenas** in CS2.

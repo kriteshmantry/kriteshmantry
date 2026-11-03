@@ -2,7 +2,7 @@ name: Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # every 3 hours
+    - cron: "0 * * * *" # hourly, so the snake tracks the latest contribution graph
   workflow_dispatch:
   push:
     branches: [main]

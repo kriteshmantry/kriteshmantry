@@ -2,7 +2,7 @@ name: Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */3 * * *" # every 3 hours
   workflow_dispatch:
   push:
     branches: [main]
@@ -21,6 +21,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The default Actions token only sees public contributions. A personal
+          # access token stored as SNAKE_TOKEN makes the calendar include private ones.
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

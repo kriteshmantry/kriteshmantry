@@ -90,31 +90,15 @@ class KriteshMantry:
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution overview" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
-</p>
-
-<details>
-<summary>🐍 Watch the snake eat my contributions</summary>
-<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kriteshmantry/kriteshmantry/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kriteshmantry/kriteshmantry/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/kriteshmantry/kriteshmantry/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </picture>
-</details>
+</p>
 
 ---
 
